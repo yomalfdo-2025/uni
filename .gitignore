@@ -205,3 +205,40 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+```
+
+Once nano is open and you can see the existing content, use the **arrow keys** to scroll to the very bottom. Then type these lines in manually (or paste with right-click **while nano is open**):
+```
+# Bioinformatics data files
+*.csv
+*.tsv
+*.vcf
+*.vcf.gz
+*.bam
+*.bed
+*.fastq
+*.fasta
+*.gz
+*.Rdata
+*.rds
+*.RData
+data/
+results/raw/
+
+
+# Bioinformatics data files
+*.csv
+*.tsv
+*.vcf
+*.vcf.gz
+*.bam
+*.bed
+*.fastq
+*.fasta
+*.gz
+*.Rdata
+*.rds
+*.RData
+data/
+results/raw/
